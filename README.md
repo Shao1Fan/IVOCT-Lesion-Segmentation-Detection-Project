@@ -1,5 +1,3 @@
-# IVOCT Lesion Segmentation/Detection Project
-
 This is the official project page for our work on IVOCT lesion segmentation and detection.
 
 Our lab page is available at [lab page](https://yuqian1023.github.io/).
